@@ -1,2 +1,1 @@
-# BrainBuddyApp
-ai integration
+
